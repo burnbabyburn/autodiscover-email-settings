@@ -18,7 +18,6 @@
                                 <LoginName>{{email}}</LoginName>
                                 <DomainRequired>on</DomainRequired>
                                 <DomainName>{{domain}}</DomainName>
-                                <DomainRequired>on</DomainRequired>
                                 <SPA>on</SPA>
                                 <SSL>on</SSL>
                                 <Encryption>{{imapenc}}</Encryption>
